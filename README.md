@@ -1,5 +1,5 @@
 # todos
-practice swift ios dev
+Learn swift ios dev
 
 # LICENSE
 MIT
